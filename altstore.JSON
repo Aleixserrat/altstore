@@ -9,15 +9,15 @@
       "developerName": "julioverne",
       "subtitle": "Spotify with free premium.",
       "version": "8.5.7",
-      "versionDate": "2020-03-25T14:30:00-07:00",
+      "versionDate": "2020-03-24T14:30:00-07:00",
       "versionDescription": "Bug fixes.",
       "downloadURL": "https://drive.google.com/uc?export=download&confirm=sZHU&id=14U_foUpAcXXXH-hElaH3K7JlngCybcNQ",
       "localizedDescription": "Spotify++ essentially activates spotify premium on your device with one exception: No downloads.\n\nSo what does Spotify++ change?\n\n• All kinds of ads removed\n• Unlimited skips\n• Play any song or album\n• Enable extreme streaming quality\n• No forced shuffle\n• Import songs from the Music app",
       "iconURL": "https://quarksources.imfast.io/files/Spotify++/assets/icon.png",
       "tintColor": "1ed760",
-      "size": 62287760,
+      "size": 29000000,
       "screenshotURLs": [
-        "https://content.app-valley.vip/screenshot/1609.png",
+        "https://quarksources.imfast.io/files/Spotify++/assets/image0.png",
 				"https://quarksources.imfast.io/files/Spotify++/assets/image1.png",
 				"https://quarksources.imfast.io/files/Spotify++/assets/image2.png"
       ]
@@ -103,7 +103,7 @@
       "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
       "tintColor": "018084",
       "size": 2184796,
-      "beta": true,
+      "beta": false,
       "screenshotURLs": [
         "https://user-images.githubusercontent.com/705880/65605563-2f009d00-df5e-11e9-9b40-1f36135d5c80.PNG",
         "https://user-images.githubusercontent.com/705880/65605569-30ca6080-df5e-11e9-8dfb-15ebb00e10cb.PNG",
@@ -176,7 +176,7 @@
     },
     {
       "name": "Clip",
-      "bundleIdentifier": "com.rileytestut.Clip.Bet4",
+      "bundleIdentifier": "com.rileytestut.Clip",
       "subtitle": "Manage your clipboard history with ease.",
       "developerName": "Riley Testut",
       "version": "1.0b",
@@ -187,7 +187,7 @@
       "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
       "tintColor": "EC008C",
       "size": 462771,
-      "beta": true,
+      "beta": false,
       "permissions": [
         {
           "type": "background-audio",
@@ -288,7 +288,7 @@
       "date": "2019-12-16",
       "notify": false
     },
-{
+    {
       "title": "PopcornTimeTV is here!",
       "identifier": "popcorntimetv-now-available",
       "caption": "We got the movies, you get the popcorn.",
@@ -298,7 +298,7 @@
       "date": "2020-03-24",
       "notify": false
     },
-		{
+    {
       "title": "iTorrent Now Available",
       "identifier": "itorrent-available-download",
       "caption": "Simple and straightforward torrenting for iOS.",
