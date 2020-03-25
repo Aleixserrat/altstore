@@ -184,7 +184,7 @@
     },
     {
       "name": "Clip",
-      "bundleIdentifier": "com.rileytestut.Clip",
+      "bundleIdentifier": "com.rileytestut.Clip.Beta",
       "subtitle": "Manage your clipboard history with ease.",
       "developerName": "Riley Testut",
       "version": "1.0b",
