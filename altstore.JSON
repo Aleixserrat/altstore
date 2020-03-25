@@ -11,7 +11,7 @@
       "version": "8.5.7",
       "versionDate": "2020-03-24T14:30:00-07:00",
       "versionDescription": "Bug fixes.",
-      "downloadURL": "https://www.filehosting.org/file/download/854615/ffAYgo3xnzZTfLYD",
+      "downloadURL": "https://www.dropbox.com/pri/get/Spotify%2B%2B%20v8.5.7_v1.0.ipa?_download_id=8475225875904538736765815443219312080563080470635072376239616957&_notify_domain=www.dropbox.com&_subject_uid=2438156672&dl=1&w=AABq-0wkxoGNqipIYZ5v4gxfrQPwvzpMeonDUU_ppuiEpQ",
       "localizedDescription": "Spotify++ essentially activates spotify premium on your device with one exception: No downloads.\n\nSo what does Spotify++ change?\n\n• All kinds of ads removed\n• Unlimited skips\n• Play any song or album\n• Enable extreme streaming quality\n• No forced shuffle\n• Import songs from the Music app",
       "iconURL": "https://quarksources.imfast.io/files/Spotify++/assets/icon.png",
       "tintColor": "1ed760",
@@ -72,45 +72,6 @@
 				"https://quarksources.imfast.io/files/iNDS/assets/image1.png",
 				"https://quarksources.imfast.io/files/iNDS/assets/image2.png"
 			]
-    },
-    {
-      "name": "WolframAlpha",
-      "bundleIdentifier": "com.wolframalpha.wolframalpha",
-      "developerName": "Wolfram Group",
-      "subtitle": "Use the power of Wolfram's computational intelligence to answer your questions.",
-      "version": "2.0.5",
-      "versionDate": "2019-11-26T14:30:00-07:00",
-      "versionDescription": "Bug fixes.",
-      "downloadURL": "https://quarksources.imfast.io/files/WolframAlpha/WolframAlpha.ipa",
-      "localizedDescription": "Use the power of Wolfram's computational intelligence to answer your questions. Building on 30+ years of development led by Stephen Wolfram, Wolfram|Alpha is the world's definitive source for instant expert knowledge and computation.\n\nAcross thousands of domains—with more continually added—Wolfram|Alpha uses its vast collection of algorithms and data to compute answers and generate reports for you.\n\nWalk through the steps of solving many math and chemistry problems with Wolfram|Alpha. Get even more detailed assistance with a Wolfram|Alpha Pro subscription.\n\nParts of Wolfram|Alpha are used in Apple's Siri assistant; this app gives you access to the full power of the Wolfram|Alpha computational knowledge engine.\n\\nUse Wolfram|Alpha to compute the following and much more:\n\n- Get homework help \"Factor 9x^2 + 29x + 6\"\n\n- Identify a plane \"Flights overhead\"\n- Find out weather \"Weather last New Year's\"\n- Get information on movies \"Movies with Keanu Reeves and Sandra Bullock\"\n- Get financial insight \"APPL vs. MSFT\"\n- Calculate units and measurements \"Seconds in a nanocentury\"\n- Get trivia answers \"Number of tennis balls that can fit in a Boeing 747\"\n- Find nutritional information \"Whopper vs. Big Mac\"\n\n- Get shopping help \"Chicago Target stores open at 10 pm\"\n- Get fitness information \"Running calculator\"\n- Have fun \"Tell me a joke\"",
-      "iconURL": "https://quarksources.imfast.io/files/WolframAlpha/assets/icon.png",
-      "tintColor": "ffc300",
-      "size": 39855086,
-			"permissions": [
-				{
-					"type": "photos",
-					"usageDescription": "Wolfram|Alpha allows you to upload images from the photo library for analysis, and enables you to save results images."
-				},
-				{
-					"type": "camera",
-					"usageDescription": "Wolfram|Alpha allows you to upload images from the camera for analysis."
-				},
-				{
-					"type": "contacts",
-					"usageDescription": "Wolfram|Alpha allows you to use your contacts to send feedback."
-				},
-				{
-					"type": "location",
-					"usageDescription": "Wolfram|Alpha can use your location to provide customized results related to place names, weather, unit systems, calendars, and other region-specific data."
-				}
-			],
-      "screenshotURLs": [
-        "https://quarksources.imfast.io/files/WolframAlpha/assets/image0.png",
-        "https://quarksources.imfast.io/files/WolframAlpha/assets/image1.png",
-        "https://quarksources.imfast.io/files/WolframAlpha/assets/image2.png",
-				"https://quarksources.imfast.io/files/WolframAlpha/assets/image3.png",
-				"https://quarksources.imfast.io/files/WolframAlpha/assets/image4.png"
-      ]
     },
     {
 	"name": "Cercube",
