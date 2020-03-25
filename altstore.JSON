@@ -216,7 +216,7 @@
       "tintColor": "e32b3c",
       "imageURL": "https://quarksources.imfast.io/files/iTorrent/assets/news.png",
       "appID": "ru.nonamedude.iTorrent",
-      "date": "2020-03-24",
+      "date": "2020-03-10",
       "notify": false
     },
     {
@@ -236,7 +236,7 @@
       "tintColor": "ff0000",
       "imageURL": "https://quarksources.imfast.io/files/Cercube/assets/news.png",
       "appID": "com.google.ios.youtube",
-      "date": "2020-03-25",
+      "date": "2020-03-9",
       "notify": false
     },
     {
@@ -246,7 +246,7 @@
       "tintColor": "101216",
       "imageURL": "https://quarksources.imfast.io/files/unc0ver/assets/news.png",
       "appID": "science.xnu.undecimus",
-      "date": "2020-02-09",
+      "date": "2020-03-23",
       "notify": false
     }
   ],
