@@ -91,7 +91,7 @@
       "bundleIdentifier": "com.osy86.UTM",
       "developerName": "osy86",
       "subtitle": "Any OS, Anywhere.",
-      "version": "0.6",
+      "version": "1.0",
       "versionDate": "2020-03-22T14:30:00-07:00",
       "versionDescription": "New Features\n\n• Pause/resume VM\n• Restart VM\n• Auto-save state on background and/or low memory warning\n• Preferences page for controlling auto-save and gestures\n• Configure gestures (change two finger tap, long press, etc)\n• Save display position/zoom automatically\n\nBug Fixes\n\n• Add delay in mouse up and key up events fixing broken cursor/keyboard in PPC/aarch64/others (#145)\n• Fix pasting long text (#151)\n• Rare crash due to texture buffer not being locked correctly (#23)\n• Fix issue of PPC QEMU trying not supporting QXL",
       "downloadURL": "https://github.com/utmapp/UTM/releases/download/v0.6/UTM.ipa",
@@ -99,7 +99,6 @@
       "iconURL": "https://github.com/utmapp/UTM/raw/master/UTM/Assets.xcassets/AppIcon.appiconset/icon_83.5%402x.png",
       "tintColor": "2044cd",
       "size": 127012571,
-      "beta": false,
       "screenshotURLs": [
 				"https://quarksources.imfast.io/files/UTM/assets/image0.png",
 				"https://quarksources.imfast.io/files/UTM/assets/image1.png"
@@ -118,7 +117,6 @@
       "iconURL": "https://quarksources.imfast.io/files/DolphiniOS/assets/icon.png",
       "tintColor": "40cbff",
       "size": 18960427,
-      "beta": false,
       "screenshotURLs": [
 
       ]
