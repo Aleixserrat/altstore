@@ -92,7 +92,7 @@
       "developerName": "osy86",
       "subtitle": "Any OS, Anywhere.",
       "version": "1.0",
-      "versionDate": "2020-03-22T14:30:00-07:00",
+      "versionDate": "2020-03-1T14:30:00-07:00",
       "versionDescription": "New Features\n\n• Pause/resume VM\n• Restart VM\n• Auto-save state on background and/or low memory warning\n• Preferences page for controlling auto-save and gestures\n• Configure gestures (change two finger tap, long press, etc)\n• Save display position/zoom automatically\n\nBug Fixes\n\n• Add delay in mouse up and key up events fixing broken cursor/keyboard in PPC/aarch64/others (#145)\n• Fix pasting long text (#151)\n• Rare crash due to texture buffer not being locked correctly (#23)\n• Fix issue of PPC QEMU trying not supporting QXL",
       "downloadURL": "https://github.com/utmapp/UTM/releases/download/v0.6/UTM.ipa",
       "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad. More information at https://getutm.app/\n\nFeatures\n\n• 30+ processors supported including x86_64, ARM64, and RISC-V thanks to qemu as a backend\n• Fast native graphics through para-virtualization thanks to SPICE\n• JIT based acceleration using qemu TCG\n• Frontend designed from scratch for iOS11+ using the latest and greatest APIs\n• Create, manage, run VMs directly from your device",
@@ -127,7 +127,7 @@
 	"developerName": "Pwn20wnd & Sam Bingner",
 	"subtitle": "The most advanced jailbreak tool.",
 	"version": "4.3.1",
-	"versionDate": "2020-03-08T14:30:00-07:00",
+	"versionDate": "2020-03-09T14:30:00-07:00",
 	"versionDescription": "Made the following changes for the substitute code substitutor:\n\n• Bumped version to 4.3.1 due to a github bug causing an older file to be temporarily available\n• Add support for rebooting the userspace for the first time in a jailbreak\n• Add support for injecting to the entire userspace\n• Add support for looking up or registering services from the sandbox with the cy: prefix for developers\n• Reboot the userspace after jailbreaking\n• Make major design changes to preserve stock system performance\n• Fix random reboots, freezes, memory issues and any known problem that affected system services or apps\n• Fix persistent software update blocker on iOS 13 (Works in the jailed state too)\n• Fix a design problem that affected the Succession restore tool\n• Automatically re-enable software updates when restoring RootFS",
 	"downloadURL": "https://github.com/pwn20wndstuff/Undecimus/releases/download/v4.3.1/Undecimus-v4.3.1.ipa",
 	"localizedDescription": "unc0ver is a jailbreak, which means that you can have the freedom to do whatever you would like to do to your iOS device. Allowing you to change what you want and operate within your purview, unc0ver unlocks the true power of your iDevice.\n\nCompatibility:\nunc0ver supports iOS 11.0 through to iOS 13.3 (Excluding 12.3-12.3.2).\n\nStability:\nUtilizing the latest stable APT and Mobile Substrate, stability is guaranteed.",
@@ -253,6 +253,16 @@
       "imageURL": "https://quarksources.imfast.io/files/iTorrent/assets/news.png",
       "appID": "ru.nonamedude.iTorrent",
       "date": "2020-03-10",
+      "notify": false
+    },
+    {
+      "title": "UTM beta on AltStore!",
+      "identifier": "utm-beta-on-altstore",
+      "caption": "Any OS, Anywhere.",
+      "tintColor": "2044cd",
+      "imageURL": "https://quarksources.imfast.io/files/UTM/assets/news.png",
+      "appID": "com.osy86.UTM",
+      "date": "2020-02-26",
       "notify": false
     },
     {
