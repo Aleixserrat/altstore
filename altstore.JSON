@@ -43,9 +43,9 @@
 				}
       ],
       "screenshotURLs": [
-        "https://quarksources.imfast.io/files/Spotify++/assets/image0.png",
-				"https://quarksources.imfast.io/files/Spotify++/assets/image1.png",
-				"https://quarksources.imfast.io/files/Spotify++/assets/image2.png"
+       "https://quarksources.imfast.io/files/Spotify++/assets/image0.png",
+       "https://quarksources.imfast.io/files/Spotify++/assets/image1.png",
+       "https://quarksources.imfast.io/files/Spotify++/assets/image2.png"
       ]
     },
     {
@@ -79,11 +79,11 @@
 					"usageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads."
 				}
 			],
-			"screenshotURLs": [
-				"https://quarksources.imfast.io/files/Cercube/assets/image0.png",
-				"https://quarksources.imfast.io/files/Cercube/assets/image1.png",
-				"https://quarksources.imfast.io/files/Cercube/assets/image2.png",
-				"https://quarksources.imfast.io/files/Cercube/assets/image3.png"
+	"screenshotURLs": [
+	"https://quarksources.imfast.io/files/Cercube/assets/image0.png",
+	"https://quarksources.imfast.io/files/Cercube/assets/image1.png",
+	"https://quarksources.imfast.io/files/Cercube/assets/image2.png",
+	"https://quarksources.imfast.io/files/Cercube/assets/image3.png"
 			]
     },
     {
@@ -100,8 +100,8 @@
       "tintColor": "2044cd",
       "size": 127012571,
       "screenshotURLs": [
-				"https://quarksources.imfast.io/files/UTM/assets/image0.png",
-				"https://quarksources.imfast.io/files/UTM/assets/image1.png"
+	"https://quarksources.imfast.io/files/UTM/assets/image0.png",
+	"https://quarksources.imfast.io/files/UTM/assets/image1.png"
       ]
     },
     {
@@ -117,9 +117,6 @@
       "iconURL": "https://quarksources.imfast.io/files/DolphiniOS/assets/icon.png",
       "tintColor": "40cbff",
       "size": 18960427,
-      "screenshotURLs": [
-
-      ]
     },
     {
 	"name": "unc0ver",
@@ -135,9 +132,9 @@
 	"tintColor": "101216",
 	"size": 35483648,
 	"screenshotURLs": [
-		"https://quarksources.imfast.io/files/unc0ver/assets/image0.png",
-		"https://quarksources.imfast.io/files/unc0ver/assets/image1.png",
-		"https://quarksources.imfast.io/files/unc0ver/assets/image2.png"
+	"https://quarksources.imfast.io/files/unc0ver/assets/image0.png",
+	"https://quarksources.imfast.io/files/unc0ver/assets/image1.png",
+	"https://quarksources.imfast.io/files/unc0ver/assets/image2.png"
 			]
     },
     {
