@@ -87,6 +87,43 @@
 			]
     },
     {
+      "name": "UTM",
+      "bundleIdentifier": "com.osy86.UTM",
+      "developerName": "osy86",
+      "subtitle": "Any OS, Anywhere.",
+      "version": "0.6",
+      "versionDate": "2020-03-22T14:30:00-07:00",
+      "versionDescription": "New Features\n\n• Pause/resume VM\n• Restart VM\n• Auto-save state on background and/or low memory warning\n• Preferences page for controlling auto-save and gestures\n• Configure gestures (change two finger tap, long press, etc)\n• Save display position/zoom automatically\n\nBug Fixes\n\n• Add delay in mouse up and key up events fixing broken cursor/keyboard in PPC/aarch64/others (#145)\n• Fix pasting long text (#151)\n• Rare crash due to texture buffer not being locked correctly (#23)\n• Fix issue of PPC QEMU trying not supporting QXL",
+      "downloadURL": "https://github.com/utmapp/UTM/releases/download/v0.6/UTM.ipa",
+      "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad. More information at https://getutm.app/\n\nFeatures\n\n• 30+ processors supported including x86_64, ARM64, and RISC-V thanks to qemu as a backend\n• Fast native graphics through para-virtualization thanks to SPICE\n• JIT based acceleration using qemu TCG\n• Frontend designed from scratch for iOS11+ using the latest and greatest APIs\n• Create, manage, run VMs directly from your device",
+      "iconURL": "https://github.com/utmapp/UTM/raw/master/UTM/Assets.xcassets/AppIcon.appiconset/icon_83.5%402x.png",
+      "tintColor": "2044cd",
+      "size": 127012571,
+      "beta": false,
+      "screenshotURLs": [
+				"https://quarksources.imfast.io/files/UTM/assets/image0.png",
+				"https://quarksources.imfast.io/files/UTM/assets/image1.png"
+      ]
+    },
+    {
+      "name": "Dolphin iOS",
+      "bundleIdentifier": "org.dolphin-emu.DolphiniOS",
+      "developerName": "Dolphin Emu Team",
+      "subtitle": "Your favorite GameCube and Wii games, now on iOS.",
+      "version": "1.0",
+      "versionDate": "2019-12-15T14:30:00-07:00",
+      "versionDescription": "Initial Release.",
+      "downloadURL": "https://quarksources.imfast.io/files/DolphiniOS/DolphiniOS.ipa",
+      "localizedDescription": "Basic stuff right now. Very much still a proof of concept on Jailed devices.",
+      "iconURL": "https://quarksources.imfast.io/files/DolphiniOS/assets/icon.png",
+      "tintColor": "40cbff",
+      "size": 18960427,
+      "beta": false,
+      "screenshotURLs": [
+
+      ]
+    },
+    {
 	"name": "unc0ver",
 	"bundleIdentifier": "science.xnu.undecimus",
 	"developerName": "Pwn20wnd & Sam Bingner",
@@ -102,6 +139,7 @@
 	"screenshotURLs": [
 		"https://quarksources.imfast.io/files/unc0ver/assets/image0.png",
 		"https://quarksources.imfast.io/files/unc0ver/assets/image1.png"
+		"https://quarksources.imfast.io/files/unc0ver/assets/image2.png"
 			]
     },
     {
