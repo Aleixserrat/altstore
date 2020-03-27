@@ -247,7 +247,7 @@
       "identifier": "itorrent-available-download",
       "caption": "Simple and straightforward torrenting for iOS.",
       "tintColor": "e32b3c",
-      "imageURL": "https://quarksources.imfast.io/files/iTorrent/assets/news.png",
+      "imageURL": "https://quarklibrary.imfast.io/iTorrent/news.png",
       "appID": "ru.nonamedude.iTorrent",
       "date": "2020-03-10",
       "notify": false
