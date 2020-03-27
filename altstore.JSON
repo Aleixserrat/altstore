@@ -13,7 +13,7 @@
       "versionDescription": "Bug fixes.",
       "downloadURL": "https://www.dropbox.com/s/fazfr8r02eb0cpw/Spotify%2B%2B%20v8.5.7_v1.0.ipa?dl=1",
       "localizedDescription": "Spotify++ essentially activates spotify premium on your device with one exception: No downloads.\n\nSo what does Spotify++ change?\n\n• All kinds of ads removed\n• Unlimited skips\n• Play any song or album\n• Enable extreme streaming quality\n• No forced shuffle\n• Import songs from the Music app",
-      "iconURL": "https://quarksources.imfast.io/files/Spotify++/assets/icon.png",
+      "iconURL": "https://quarklibrary.imfast.io/Spotify++/icon.png",
       "tintColor": "1ed760",
       "size": 29000000,
       "permissions": [
@@ -43,9 +43,9 @@
 				}
       ],
       "screenshotURLs": [
-       "https://quarksources.imfast.io/files/Spotify++/assets/image0.png",
-       "https://quarksources.imfast.io/files/Spotify++/assets/image1.png",
-       "https://quarksources.imfast.io/files/Spotify++/assets/image2.png"
+       "https://quarklibrary.imfast.io/Spotify++/image0.png",
+       "https://quarklibrary.imfast.io/Spotify++/image1.png",
+       "https://quarklibrary.imfast.io/Spotify++/image2.png"
       ]
     },
     {
@@ -56,9 +56,9 @@
 	"version": "5.1.10",
 	"versionDate": "2020-01-19T14:30:00-07:00",
 	"versionDescription": "Bug fixes.",
-	"downloadURL": "https://quarksources.imfast.io/files/Cercube/Cercube.ipa",
+	"downloadURL": "https://quarklibrary.imfast.io/Cercube/Cercube.ipa",
 	"localizedDescription": "YouTube is one of the best and most popular video-sharing platform available on the web. It features a range of videos from funny pranks to reviews, gaming content, and daily vlogs by popular influencers.\n\nYouTube also offers an app for iOS which provides a more smooth and enjoyable experience watching videos on your iPhone. Unfortunately, the app lacks a lot of essential features.\n\nCercube is a third-party app for YouTube that brings tons of amazing new features and functionality. Some of these are:\n\n• Download and save videos up to 4k resolution\n• Save videos as audio only\n• View, manage and share all your downloads in Cercube's download manager\n• Block ads\n• Share downloaded videos with other devices via AirDrop\n• Background playback for streamed and downloaded videos\n• Import downloads to Music or Videos\n• Play YouTube videos using Picture-in-Picture mode\n• Downloaded videos are displayed within a beautifully crafted downloads manager that shows all the available information\n• Choose the default tab to open when launching YouTube\n• Stream videos in HD on cellular network\n• Auto-replay videos\n• Hide floating upload button\n• Hide the Trending tab\n• Rewind or forward videos\n• Cercube options are configurable from within YouTube settings\n• Play in high quality on Mobile Data\n\nAnd many more features. All-in-all, Cercube takes your YouTube experience to a whole new level with all the innovative features that it provides.",
-	"iconURL": "https://quarksources.imfast.io/files/Cercube/assets/icon.png",
+	"iconURL": "https://quarklibrary.imfast.io/Cercube/icon.png",
 	"tintColor": "ff0000",
 	"size": 90156778,
 	"permissions": [
@@ -80,10 +80,10 @@
 				}
 			],
 	"screenshotURLs": [
-	"https://quarksources.imfast.io/files/Cercube/assets/image0.png",
-	"https://quarksources.imfast.io/files/Cercube/assets/image1.png",
-	"https://quarksources.imfast.io/files/Cercube/assets/image2.png",
-	"https://quarksources.imfast.io/files/Cercube/assets/image3.png"
+	"https://quarklibrary.imfast.io/Cercube/image0.png",
+	"https://quarklibrary.imfast.io/Cercube/image1.png",
+	"https://quarklibrary.imfast.io/Cercube/image2.png",
+	"https://quarklibrary.imfast.io/Cercube/image3.png"
 			]
     },
     {
@@ -100,8 +100,8 @@
       "tintColor": "2044cd",
       "size": 127012571,
       "screenshotURLs": [
-	"https://quarksources.imfast.io/files/UTM/assets/image0.png",
-	"https://quarksources.imfast.io/files/UTM/assets/image1.png"
+	"https://quarklibrary.imfast.io/UTM/image0.png",
+	"https://quarklibrary.imfast.io/UTM/image1.png"
       ]
     },
     {
@@ -112,9 +112,9 @@
       "version": "1.0",
       "versionDate": "2019-12-15T14:30:00-07:00",
       "versionDescription": "Initial Release.",
-      "downloadURL": "https://quarksources.imfast.io/files/DolphiniOS/DolphiniOS.ipa",
+      "downloadURL": "https://quarklibrary.imfast.io/DolphiniOS/DolphiniOS.ipa",
       "localizedDescription": "Basic stuff right now. Very much still a proof of concept on Jailed devices.",
-      "iconURL": "https://quarksources.imfast.io/files/DolphiniOS/assets/icon.png",
+      "iconURL": "https://quarklibrary.imfast.io/DolphiniOS/icon.png",
       "tintColor": "40cbff",
       "size": 18960427
     },
@@ -132,9 +132,9 @@
 	"tintColor": "101216",
 	"size": 35483648,
 	"screenshotURLs": [
-	"https://quarksources.imfast.io/files/unc0ver/assets/image0.png",
-	"https://quarksources.imfast.io/files/unc0ver/assets/image1.png",
-	"https://quarksources.imfast.io/files/unc0ver/assets/image2.png"
+	"https://quarklibrary.imfast.io/unc0ver/image0.png",
+	"https://quarklibrary.imfast.io/unc0ver/image1.png",
+	"https://quarklibrary.imfast.io/unc0ver/image2.png"
 			]
     },
     {
@@ -151,10 +151,10 @@
       "tintColor": "e32b3c",
       "size": 20132659,
       "screenshotURLs": [
-        "https://quarksources.imfast.io/files/iTorrent/assets/image0.png",
-        "https://quarksources.imfast.io/files/iTorrent/assets/image1.png",
-        "https://quarksources.imfast.io/files/iTorrent/assets/image2.png",
-				"https://quarksources.imfast.io/files/iTorrent/assets/image3.png"
+        "https://quarklibrary.imfast.io/iTorrent/image0.png",
+        "https://quarklibrary.imfast.io/iTorrent/image1.png",
+        "https://quarklibrary.imfast.io/iTorrent/image2.png",
+	"https://quarklibrary.imfast.io/iTorrent/image3.png"
       ]
     },
     {
@@ -257,7 +257,7 @@
       "identifier": "utm-beta-on-altstore",
       "caption": "Any OS, Anywhere.",
       "tintColor": "2044cd",
-      "imageURL": "https://quarksources.imfast.io/files/UTM/assets/news.png",
+      "imageURL": "https://quarklibrary.imfast.io/UTM/news.png",
       "appID": "com.osy86.UTM",
       "date": "2020-02-26",
       "notify": false
@@ -267,7 +267,7 @@
       "identifier": "spotify++-available-now",
       "caption": "Premium spotify, available for free.",
       "tintColor": "1ed760",
-      "imageURL": "https://quarksources.imfast.io/files/Spotify++/assets/news.png",
+      "imageURL": "https://quarklibrary.imfast.io/Spotify++/news.png",
       "appID": "com.spotify.client",
       "date": "2020-03-24",
       "notify": false
@@ -277,7 +277,7 @@
       "identifier": "cercube-now-available-for-download",
       "caption": "An elevated YouTube experience.",
       "tintColor": "ff0000",
-      "imageURL": "https://quarksources.imfast.io/files/Cercube/assets/news.png",
+      "imageURL": "https://quarklibrary.imfast.io/Cercube/news.png",
       "appID": "com.google.ios.youtube",
       "date": "2020-03-9",
       "notify": false
@@ -287,7 +287,7 @@
       "identifier": "uncover-available-download",
       "caption": "The most advanced jailbreak tool yet. Tap to download.",
       "tintColor": "101216",
-      "imageURL": "https://quarksources.imfast.io/files/unc0ver/assets/news.png",
+      "imageURL": "https://quarklibrary.imfast.io/unc0ver/news.png",
       "appID": "science.xnu.undecimus",
       "date": "2020-03-23",
       "notify": false
