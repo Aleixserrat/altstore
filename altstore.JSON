@@ -109,53 +109,6 @@
       ]
     },
     {
-      "name": "Twitter++",
-      "bundleIdentifier": "com.atebits.Tweetie2",
-      "developerName": "unlimapps",
-      "subtitle": "Clean, ad-free Twitter.",
-      "version": "7.47",
-      "versionDate": "2019-04-19T08:46:00-07:00",
-      "versionDescription": "Bug fixes.",
-      "downloadURL": "https://f000.backblazeb2.com/file/quarklibrary/Twitter%2B%2B/Twitter%2B%2B.ipa",
-      "localizedDescription": "Adds new features to the iOS Twitter app:\n\n• Share images and links from tweets by long pressing on them\n• Share tweets to third-party apps with a tap and hold gesture\n• Save video and GIFs to your device with tap and hold gesture\n• Download YouTube videos from Twitter to your device\n• Set the default browser to open when a link is tapped\n• Show the keyboard on Compose instead of media screen\n• Automatic Long Tweet Creation - For tweets that are over 140 Chars, Twitter++ allows you to automatically post tweet as an image or using pastebin.\n• Displays a confirmation when favoriting a Tweet\n• Enable full-screen \n• Video tweets of users who have blocked you",
-      "iconURL": "https://f000.backblazeb2.com/file/quarklibrary/Twitter%2B%2B/icon.png",
-      "tintColor": "1fa0f3",
-      "size": 125089202,
-      "permissions": [
-        {
-          "type": "photos",
-          "usageDescription": "Enables Twitter to access photos from your library and add them to your tweet."
-        },
-        {
-          "type": "camera",
-          "usageDescription": "Enables Twitter to take photos and videos and add them to your tweet."
-        },
-        {
-          "type": "music",
-          "usageDescription": "Enables twitter to share music."
-        },
-        {
-          "type": "contacts",
-          "usageDescription": "Enables Twitter to search your address book for people you may know on Twitter."
-        },
-        {
-          "type": "microphone",
-          "usageDescription": "Enables Twitter to take videos with audio and add them to your tweet."
-        },
-        {
-          "type": "location",
-          "usageDescription": "Enables Twitter to customize your experience based on your current location."
-        }
-      ],
-      "screenshotURLs": [
-        "https://f000.backblazeb2.com/file/quarklibrary/Twitter%2B%2B/image0.png",
-        "https://f000.backblazeb2.com/file/quarklibrary/Twitter%2B%2B/image1.png",
-        "https://f000.backblazeb2.com/file/quarklibrary/Twitter%2B%2B/image2.png",
-        "https://f000.backblazeb2.com/file/quarklibrary/Twitter%2B%2B/image3.png",
-        "https://f000.backblazeb2.com/file/quarklibrary/Twitter%2B%2B/image4.png"
-      ]
-    },
-    {
 	"name": "unc0ver",
 	"bundleIdentifier": "science.xnu.undecimus",
 	"developerName": "Pwn20wnd & Sam Bingner",
@@ -257,50 +210,6 @@
         "https://f000.backblazeb2.com/file/quarklibrary/Instagram%2B%2B/image1.png",
         "https://f000.backblazeb2.com/file/quarklibrary/Instagram%2B%2B/image2.png",
         "https://f000.backblazeb2.com/file/quarklibrary/Instagram%2B%2B/image3.png"
-      ]
-    },
-    {
-      "name": "Instagram Rhino",
-      "bundleIdentifier": "com.burbn.instagram",
-      "developerName": "Michael Lema",
-      "subtitle": "A powerful tweaked version of Instagram.",
-      "version": "117.0",
-      "versionDate": "2019-10-31T14:30:00-07:00",
-      "versionDescription": "Minor improvements.",
-      "downloadURL": "https://cdn.builds.io/ipa_builds/IG_Rhino_v117.0_T1.6.5.ipa",
-      "localizedDescription": "Instagram Rhino temporary description",
-      "iconURL": "https://f000.backblazeb2.com/file/quarklibrary/Instagram-Rhino/icon.png",
-      "tintColor": "16c54f",
-      "size": 44502055,
-      "permissions": [
-        {
-          "type": "photos",
-          "usageDescription": "This lets you share photos from your library and save photos to your Camera Roll."
-        },
-        {
-          "type": "camera",
-          "usageDescription": "This lets you take photos and record video."
-        },
-        {
-          "type": "microphone",
-          "usageDescription": "This lets you record videos with sound."
-        },
-        {
-          "type": "contacts",
-          "usageDescription": "This helps you and others find friends and more. Your contacts will be synced and securely stored on Instagram's servers."
-        },
-        {
-          "type": "location",
-          "usageDescription": "Instagram uses this to make some features work, personalize content, help people find places and more. You can always change this later in your phone’s settings."
-        },
-        {
-          "type": "faceid",
-          "usageDescription": "This lets you log into Instagram using Apple Face ID."
-        }
-      ],
-      "screenshotURLs": [
-        "https://f000.backblazeb2.com/file/quarklibrary/Instagram-Rhino/image0.png",
-        "https://f000.backblazeb2.com/file/quarklibrary/Instagram-Rhino/image1.png"
       ]
     },
     {
