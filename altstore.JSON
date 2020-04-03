@@ -13,43 +13,43 @@
       "versionDescription": "Bug fixes.",
       "downloadURL": "https://www.dropbox.com/s/fazfr8r02eb0cpw/Spotify%2B%2B%20v8.5.7_v1.0.ipa?dl=1",
       "localizedDescription": "Spotify++ essentially activates spotify premium on your device with one exception: No downloads.\n\nSo what does Spotify++ change?\n\n• All kinds of ads removed\n• Unlimited skips\n• Play any song or album\n• Enable extreme streaming quality\n• No forced shuffle\n• Import songs from the Music app",
-      "iconURL": "https://f000.backblazeb2.com/file/quarklibrary/Spotify%2B%2B/icon.png",
+      "iconURL": "https://quarklibrary.imfast.io/Spotify%2B%2B/icon.png",
       "tintColor": "1ed760",
       "size": 29000000,
       "permissions": [
-				{
-					"type": "camera",
-					"usageDescription": "This lets you scan Spotify Codes."
-				},
-				{
-					"type": "photos",
-					"usageDescription": "This lets you save and select images to and from your Photo Library."
-				},
-				{
-					"type": "motion",
-					"usageDescription": "Used to control your tempo for Spotify Running."
-				},
-				{
-					"type": "microphone",
-					"usageDescription": "This lets you control Spotify using your voice."
-				},
-				{
-					"type": "bluetooth",
-					"usageDescription": "This lets you use Spotify with external accessories."
-				},
-				{
-					"type": "faceid",
-					"usageDescription": "This lets you set access restrictions using Face ID."
-				}
+        {
+          "type": "camera",
+          "usageDescription": "This lets you scan Spotify Codes."
+        },
+        {
+          "type": "photos",
+          "usageDescription": "This lets you save and select images to and from your Photo Library."
+        },
+        {
+          "type": "motion",
+          "usageDescription": "Used to control your tempo for Spotify Running."
+        },
+        {
+          "type": "microphone",
+          "usageDescription": "This lets you control Spotify using your voice."
+        },
+        {
+          "type": "bluetooth",
+          "usageDescription": "This lets you use Spotify with external accessories."
+        },
+        {
+          "type": "faceid",
+          "usageDescription": "This lets you set access restrictions using Face ID."
+        }
       ],
       "screenshotURLs": [
-        "https://f000.backblazeb2.com/file/quarklibrary/Spotify%2B%2B/image0.png",
-        "https://f000.backblazeb2.com/file/quarklibrary/Spotify%2B%2B/image1.png",
-        "https://f000.backblazeb2.com/file/quarklibrary/Spotify%2B%2B/image2.png",
-        "https://f000.backblazeb2.com/file/quarklibrary/Spotify%2B%2B/image3.png",
-        "https://f000.backblazeb2.com/file/quarklibrary/Spotify%2B%2B/image4.png",
-        "https://f000.backblazeb2.com/file/quarklibrary/Spotify%2B%2B/image5.png",
-        "https://f000.backblazeb2.com/file/quarklibrary/Spotify%2B%2B/image6.png"
+        "https://quarklibrary.imfast.io/Spotify%2B%2B/image0.png",
+        "https://quarklibrary.imfast.io/Spotify%2B%2B/image1.png",
+        "https://quarklibrary.imfast.io/Spotify%2B%2B/image2.png",
+        "https://quarklibrary.imfast.io/Spotify%2B%2B/image3.png",
+        "https://quarklibrary.imfast.io/Spotify%2B%2B/image4.png",
+        "https://quarklibrary.imfast.io/Spotify%2B%2B/image5.png",
+        "https://quarklibrary.imfast.io/Spotify%2B%2B/image6.png"
       ]
     },
     {
@@ -62,7 +62,7 @@
       "versionDescription": "Bug fixes.",
       "downloadURL": "https://f000.backblazeb2.com/file/quarklibrary/Cercube/Cercube.ipa",
       "localizedDescription": "YouTube is one of the best and most popular video-sharing platform available on the web. It features a range of videos from funny pranks to reviews, gaming content, and daily vlogs by popular influencers.\n\nYouTube also offers an app for iOS which provides a more smooth and enjoyable experience watching videos on your iPhone. Unfortunately, the app lacks a lot of essential features.\n\nCercube is a third-party app for YouTube that brings tons of amazing new features and functionality. Some of these are:\n\n• Download and save videos up to 4k resolution\n• Save videos as audio only\n• View, manage and share all your downloads in Cercube's download manager\n• Block ads\n• Share downloaded videos with other devices via AirDrop\n• Background playback for streamed and downloaded videos\n• Import downloads to Music or Videos\n• Play YouTube videos using Picture-in-Picture mode\n• Downloaded videos are displayed within a beautifully crafted downloads manager that shows all the available information\n• Choose the default tab to open when launching YouTube\n• Stream videos in HD on cellular network\n• Auto-replay videos\n• Hide floating upload button\n• Hide the Trending tab\n• Rewind or forward videos\n• Cercube options are configurable from within YouTube settings\n• Play in high quality on Mobile Data\n\nAnd many more features. All-in-all, Cercube takes your YouTube experience to a whole new level with all the innovative features that it provides.",
-      "iconURL": "https://f000.backblazeb2.com/file/quarklibrary/Cercube/icon.png",
+      "iconURL": "https://quarklibrary.imfast.io/Cercube/icon.png",
       "tintColor": "ff0000",
       "size": 90156778,
       "permissions": [
@@ -84,28 +84,10 @@
         }
       ],
       "screenshotURLs": [
-        "https://f000.backblazeb2.com/file/quarklibrary/Cercube/image0.png",
-        "https://f000.backblazeb2.com/file/quarklibrary/Cercube/image1.png",
-        "https://f000.backblazeb2.com/file/quarklibrary/Cercube/image2.png",
-        "https://f000.backblazeb2.com/file/quarklibrary/Cercube/image3.png"
-      ]
-    },
-    {
-      "name": "UTM",
-      "bundleIdentifier": "com.osy86.UTM",
-      "developerName": "osy86",
-      "subtitle": "Any OS, Anywhere.",
-      "version": "1.0",
-      "versionDate": "2020-03-22T14:30:00-07:00",
-      "versionDescription": "New Features\n\n• Pause/resume VM\n• Restart VM\n• Auto-save state on background and/or low memory warning\n• Preferences page for controlling auto-save and gestures\n• Configure gestures (change two finger tap, long press, etc)\n• Save display position/zoom automatically\n\nBug Fixes\n\n• Add delay in mouse up and key up events fixing broken cursor/keyboard in PPC/aarch64/others (#145)\n• Fix pasting long text (#151)\n• Rare crash due to texture buffer not being locked correctly (#23)\n• Fix issue of PPC QEMU trying not supporting QXL",
-      "downloadURL": "https://github.com/utmapp/UTM/releases/download/v0.6/UTM.ipa",
-      "localizedDescription": "UTM is a full featured virtual machine host for iOS. In short, it allows you to run Windows, Android, and more on your iPhone and iPad. More information at https://getutm.app/\n\nFeatures\n\n• 30+ processors supported including x86_64, ARM64, and RISC-V thanks to qemu as a backend\n• Fast native graphics through para-virtualization thanks to SPICE\n• JIT based acceleration using qemu TCG\n• Frontend designed from scratch for iOS11+ using the latest and greatest APIs\n• Create, manage, run VMs directly from your device",
-      "iconURL": "https://raw.githubusercontent.com/utmapp/UTM/master/UTM/Assets.xcassets/AppIcon.appiconset/icon_83.5%402x.png",
-      "tintColor": "2044cd",
-      "size": 127012571,
-      "screenshotURLs": [
-		"https://f000.backblazeb2.com/file/quarklibrary/UTM/image0.png",
-	        "https://f000.backblazeb2.com/file/quarklibrary/UTM/image1.png"
+        "https://quarklibrary.imfast.io/Cercube/image0.png",
+        "https://quarklibrary.imfast.io/Cercube/image1.png",
+        "https://quarklibrary.imfast.io/Cercube/image2.png",
+        "https://quarklibrary.imfast.io/Cercube/image3.png"
       ]
     },
     {
@@ -122,29 +104,10 @@
 	"tintColor": "101216",
 	"size": 35483648,
 	"screenshotURLs": [
-	"https://f000.backblazeb2.com/file/quarklibrary/unc0ver/image0.png",
-	"https://f000.backblazeb2.com/file/quarklibrary/unc0ver/image1.png",
-	"https://f000.backblazeb2.com/file/quarklibrary/unc0ver/image2.png"
+		"https://quarklibrary.imfast.io/unc0ver/image0.png",
+		"https://quarklibrary.imfast.io/unc0ver/image1.png",
+		"https://quarklibrary.imfast.io/unc0ver/image2.png"
 			]
-    },
-    {
-      "name": "Chimera",
-      "bundleIdentifier": "com.electrateam.chimera",
-      "developerName": "Electra Team",
-      "subtitle": "Chimera is a jailbreak tool for iOS 12.",
-      "version": "1.4.0",
-      "versionDate": "2020-03-14T00:00:00-00:00",
-      "versionDescription": "Bug fixes and small improvements.",
-      "downloadURL": "https://chimera.sh/downloads/ios/1.4.0-12.0-12.4.ipa",
-      "localizedDescription": "Full-fledged\n\nChimera is the first true iOS 12 jailbreak to not only feature a CoreTrust bypass so that binaries don't need to be resigned, but to also support A12 devices, including iPhone Xs, iPhone Xr, and the newest iPads. Chimera doesn't tamper with user files, making it safer than alternatives.\n\nStable\n\nWe've rewritten Chimera from the ground up to ensure that there's no battery drain, freezing, or crashing. There's simply nothing else like it, and we can't wait for you to see for yourself\n\nModern\n\nChimera comes with a modern package manager, Sileo, featuring a UI made to fit iOS, and packed full of features and speed enhancements to make installing packages a breeze. Rather than sticking to tools built decades ago, it ships with modern system tools designed to take advantage wherever possible.",
-      "iconURL": "https://i.imgur.com/cF9hdzv.png",
-      "tintColor": "33a597",
-      "size": 91350280,
-      "screenshotURLs": [
-		"https://f000.backblazeb2.com/file/quarklibrary/Chimera/image0.png",
-		"https://f000.backblazeb2.com/file/quarklibrary/Chimera/image1.png",
-	        "https://f000.backblazeb2.com/file/quarklibrary/Chimera/image2.png"
-      ]
     },
     {
       "name": "iTorrent",
@@ -156,14 +119,14 @@
       "versionDescription": "Fixed:\n\n• Background mode not work if zero speed limit disabled\n\nWhat's new:\n\n• Added https protocol support for trackers!\n• FTP server replaced by WebDAV, file sharing is now possible through a web browser\n• Added background stop when downloading at zero speed\n• Clicking on a notification now opens a specific window\n• UI improvements",
       "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/1.7.4Hotfix/iTorrent.ipa",
       "localizedDescription": "iTorrent is an ordinary torrent client for iOS with Files app support.\n\nWhat can this app do:\n\n• Download in the background\n• Sequential download (use VLC to watch films while loading)\n• Add torrent files from Share menu (Safari and other apps)\n• Add magnet links directly from Safari\n• Store files in Files app (iOS 11+)\n• File sharing directly from app\n• Download torrent by link\n• Download torrent by magnet\n• Send notification on torrent downloaded\n• FTP Server (unstable)\n• Select files to download or not\n• Change UI to dark theme\n\nNow supporting these localizations:\n• English\n• Russian",
-      "iconURL": "https://f000.backblazeb2.com/file/quarklibrary/iTorrent/icon.png",
+      "iconURL": "https://quarklibrary.imfast.io/iTorrent/icon.png",
       "tintColor": "e32b3c",
       "size": 20132659,
       "screenshotURLs": [
-        "https://f000.backblazeb2.com/file/quarklibrary/iTorrent/image0.png",
-        "https://f000.backblazeb2.com/file/quarklibrary/iTorrent/image1.png",
-        "https://f000.backblazeb2.com/file/quarklibrary/iTorrent/image2.png",
-	"https://f000.backblazeb2.com/file/quarklibrary/iTorrent/image3.png"
+        "https://quarklibrary.imfast.io/iTorrent/image0.png",
+        "https://quarklibrary.imfast.io/iTorrent/image1.png",
+        "https://quarklibrary.imfast.io/iTorrent/image2.png",
+	"https://quarklibrary.imfast.io/iTorrent/image3.png"
       ]
     },
     {
@@ -176,7 +139,7 @@
       "versionDescription": "Minor improvements and bug fixes.",
       "downloadURL": "https://f000.backblazeb2.com/file/quarklibrary/Instagram%2B%2B/Instagram%2B%2B.ipa",
       "localizedDescription": "Instagram++ could be categorized as an Instagram user’s dream tweak, because it’s going to let you do things that the photo and video sharing social network probably doesn’t want you to do, but nevertheless they’re things you, the user, have wanted for a long time.\n\nIf you’re an Instagram user looking to enhance your abilities within the app and obtain features that no stock user is ever going to get, Instagram++ could be your new best friend.\n\nAmazing Features:\n\n• Anonymous viewer\n• Grid feed layout\n• Save posts to gallery\n• Check friendship status\n• Hide sponsored ads\n• AND More...",
-      "iconURL": "https://f000.backblazeb2.com/file/quarklibrary/Instagram%2B%2B/icon.png",
+      "iconURL": "https://quarklibrary.imfast.io/Instagram%2B%2B/icon.png",
       "tintColor": "c7309b",
       "size": 123553680,
       "permissions": [
@@ -206,10 +169,10 @@
         }
       ],
       "screenshotURLs": [
-        "https://f000.backblazeb2.com/file/quarklibrary/Instagram%2B%2B/image0.png",
-        "https://f000.backblazeb2.com/file/quarklibrary/Instagram%2B%2B/image1.png",
-        "https://f000.backblazeb2.com/file/quarklibrary/Instagram%2B%2B/image2.png",
-        "https://f000.backblazeb2.com/file/quarklibrary/Instagram%2B%2B/image3.png"
+        "https://quarklibrary.imfast.io/Instagram%2B%2B/image0.png",
+        "https://quarklibrary.imfast.io/Instagram%2B%2B/image1.png",
+        "https://quarklibrary.imfast.io/Instagram%2B%2B/image2.png",
+        "https://quarklibrary.imfast.io/Instagram%2B%2B/image3.png"
       ]
     },
     {
@@ -222,7 +185,7 @@
       "versionDescription": "Bug fixes.",
       "downloadURL": "https://f000.backblazeb2.com/file/quarklibrary/WhatsApp%2B%2B/WhatsApp%2B%2B.ipa",
       "localizedDescription": "Features:\n\n• Hide your online and last seen status from others\n• Disable read receipts so that others will not know when you read their message\n• Disable delivery receipts so that others will know when the message has been delivered to you\n• Customize the look and feel of Whatsapp\n• Use a full profile picture that doesn't get cropped\n• Send more than 10 media at once\n• Share music from your device\n• Record audio with a single tap rather than having to tap and hold\n• Lock WhatsApp with Touch ID or passcode",
-      "iconURL": "https://f000.backblazeb2.com/file/quarklibrary/WhatsApp%2B%2B/icon.png",
+      "iconURL": "https://quarklibrary.imfast.io/WhatsApp%2B%2B/icon.png",
       "tintColor": "2ad347",
       "size": 119535189,
       "permissions": [
@@ -264,9 +227,9 @@
         }
       ],
       "screenshotURLs": [
-        "https://f000.backblazeb2.com/file/quarklibrary/WhatsApp%2B%2B/image0.png",
-        "https://f000.backblazeb2.com/file/quarklibrary/WhatsApp%2B%2B/image1.png",
-        "https://f000.backblazeb2.com/file/quarklibrary/WhatsApp%2B%2B/image2.png"
+        "https://quarklibrary.imfast.io/WhatsApp%2B%2B/image0.png",
+        "https://quarklibrary.imfast.io/WhatsApp%2B%2B/image1.png",
+        "https://quarklibrary.imfast.io/WhatsApp%2B%2B/image2.png"
       ]
     },
     {
@@ -327,7 +290,7 @@
       "identifier": "spotify++-available-now",
       "caption": "Premium spotify, available for free.",
       "tintColor": "1ed760",
-      "imageURL": "https://f000.backblazeb2.com/file/quarklibrary/Spotify%2B%2B/news.png",
+      "imageURL": "https://quarklibrary.imfast.io/Spotify%2B%2B/news.png",
       "appID": "com.spotify.client",
       "date": "2020-03-24",
       "notify": false
