@@ -185,7 +185,7 @@
       "versionDescription": "Bug fixes.",
       "downloadURL": "https://f000.backblazeb2.com/file/quarklibrary/WhatsApp%2B%2B/WhatsApp%2B%2B.ipa",
       "localizedDescription": "Features:\n\n• Hide your online and last seen status from others\n• Disable read receipts so that others will not know when you read their message\n• Disable delivery receipts so that others will know when the message has been delivered to you\n• Customize the look and feel of Whatsapp\n• Use a full profile picture that doesn't get cropped\n• Send more than 10 media at once\n• Share music from your device\n• Record audio with a single tap rather than having to tap and hold\n• Lock WhatsApp with Touch ID or passcode",
-      "iconURL": "https://quarklibrary.imfast.io/WhatsApp%2B%2B/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/Aleixserrat/altstore/master/Whatsapp.png",
       "tintColor": "2ad347",
       "size": 119535189,
       "permissions": [
