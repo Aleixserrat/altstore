@@ -13,7 +13,7 @@
       "versionDescription": "Bug fixes.",
       "downloadURL": "https://www.dropbox.com/s/fazfr8r02eb0cpw/Spotify%2B%2B%20v8.5.7_v1.0.ipa?dl=1",
       "localizedDescription": "Spotify++ essentially activates spotify premium on your device with one exception: No downloads.\n\nSo what does Spotify++ change?\n\n• All kinds of ads removed\n• Unlimited skips\n• Play any song or album\n• Enable extreme streaming quality\n• No forced shuffle\n• Import songs from the Music app",
-      "iconURL": "https://quarklibrary.imfast.io/Spotify%2B%2B/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/Aleixserrat/altstore/master/Spotify.jpg",
       "tintColor": "1ed760",
       "size": 29000000,
       "permissions": [
@@ -84,10 +84,10 @@
         }
       ],
       "screenshotURLs": [
-        "https://quarklibrary.imfast.io/Cercube/image0.png",
-        "https://quarklibrary.imfast.io/Cercube/image1.png",
         "https://quarklibrary.imfast.io/Cercube/image2.png",
-        "https://quarklibrary.imfast.io/Cercube/image3.png"
+        "https://quarklibrary.imfast.io/Cercube/image4.png",
+        "https://quarklibrary.imfast.io/Cercube/image0.png",
+        "https://quarklibrary.imfast.io/Cercube/image1.png"
       ]
     },
     {
@@ -123,10 +123,10 @@
       "tintColor": "e32b3c",
       "size": 20132659,
       "screenshotURLs": [
-        "https://quarklibrary.imfast.io/iTorrent/image0.png",
-        "https://quarklibrary.imfast.io/iTorrent/image1.png",
         "https://quarklibrary.imfast.io/iTorrent/image2.png",
-	"https://quarklibrary.imfast.io/iTorrent/image3.png"
+        "https://quarklibrary.imfast.io/iTorrent/image4.png",
+        "https://quarklibrary.imfast.io/iTorrent/image0.png",
+	"https://quarklibrary.imfast.io/iTorrent/image1.png"
       ]
     },
     {
@@ -139,7 +139,7 @@
       "versionDescription": "Minor improvements and bug fixes.",
       "downloadURL": "https://f000.backblazeb2.com/file/quarklibrary/Instagram%2B%2B/Instagram%2B%2B.ipa",
       "localizedDescription": "Instagram++ could be categorized as an Instagram user’s dream tweak, because it’s going to let you do things that the photo and video sharing social network probably doesn’t want you to do, but nevertheless they’re things you, the user, have wanted for a long time.\n\nIf you’re an Instagram user looking to enhance your abilities within the app and obtain features that no stock user is ever going to get, Instagram++ could be your new best friend.\n\nAmazing Features:\n\n• Anonymous viewer\n• Grid feed layout\n• Save posts to gallery\n• Check friendship status\n• Hide sponsored ads\n• AND More...",
-      "iconURL": "https://quarklibrary.imfast.io/Instagram%2B%2B/icon.png",
+      "iconURL": "https://raw.githubusercontent.com/Aleixserrat/altstore/master/Instagram.jpg",
       "tintColor": "c7309b",
       "size": 123553680,
       "permissions": [
@@ -286,7 +286,7 @@
   ],
   "news": [
     {
-      "title": "Spotify++ joins AltStore!",
+      "title": "Spotify++ joins AltStore!,
       "identifier": "spotify++-available-now",
       "caption": "Premium spotify, available for free.",
       "tintColor": "1ed760",
